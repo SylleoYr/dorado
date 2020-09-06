@@ -1,11 +1,11 @@
 {
     "homepage": "https://github.com/hui-Zz/RunAny",
     "description": "A fast and universal launcher.",
-    "version": "5.7.1",
+    "version": "5.7.3",
     "license": "Freeware",
-    "url": "https://github.com/hui-Zz/RunAny/archive/v5.7.1.zip",
-    "hash": "24f46f80fca7001009d15a18b45882a5e40e17a8c6cfb51d7d30cd7e10150d9d",
-    "extract_dir": "RunAny-5.7.1",
+    "url": "https://github.com/hui-Zz/RunAny/archive/v5.7.3.zip",
+    "hash": "e20078962cee61d90d13d848ce16d9fd572d76a03d16429e8454a9eb0280044b",
+    "extract_dir": "RunAny-5.7.3",
     "shortcuts": [
         [
             "RunAny.exe",

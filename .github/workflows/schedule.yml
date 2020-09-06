@@ -7,10 +7,10 @@ jobs:
     name: Excavate
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@main
     - name: Excavate
       uses: Ash258/Scoop-GithubActions@stable
       env:
-        GITH_EMAIL: h404bi@outlook.com
+        GITH_EMAIL: chawyehsu@hotmail.com
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SKIP_UPDATED: '1'

@@ -1,16 +1,16 @@
 {
     "homepage": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell Core, the cross-platform task automation and configuration management framework/tool.",
-    "version": "7.0.1",
+    "version": "7.0.3",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.0.1/PowerShell-7.0.1-win-x64.zip",
-            "hash": "0ce5e2c20c773e54f931adc60c77f599ca90c25b14f53fdbded19572847b45c7"
+            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.0.3/PowerShell-7.0.3-win-x64.zip",
+            "hash": "fee749388a399fefdb746e2b26e7b4e654c3cfef1c19ccafd14909ac46e35382"
         },
         "32bit": {
-            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.0.1/PowerShell-7.0.1-win-x86.zip",
-            "hash": "1478777c68b489574cc98b4041a6dc87330ffd2c14d91970d86b7d1b27d377ea"
+            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.0.3/PowerShell-7.0.3-win-x86.zip",
+            "hash": "cbf7a8d46d685a29fa8f05b91f40437a6577682ad3a02ae3cac20b9a89c901ac"
         }
     },
     "bin": "pwsh.exe",

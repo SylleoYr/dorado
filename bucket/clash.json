@@ -1,12 +1,12 @@
 {
     "homepage": "https://github.com/Dreamacro/clash/",
     "description": "A rule-based tunnel in Go.",
-    "version": "0.20.0",
+    "version": "1.1.0",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Dreamacro/clash/releases/download/v0.20.0/clash-windows-amd64-v0.20.0.zip",
-            "hash": "dd82ca5a15e23e0ccdc1c1ee90e1d905fd8c65d493cf4baf7c9a3b6083c96f26"
+            "url": "https://github.com/Dreamacro/clash/releases/download/v1.1.0/clash-windows-amd64-v1.1.0.zip",
+            "hash": "462508d9561a602e73e7e26b6836d94cfbfea9219b7c21fb7b329420d3bfb6fd"
         }
     },
     "pre_install": "Rename-Item @(Get-ChildItem $dir\\clash-*.exe)[0] $dir\\clash.exe",

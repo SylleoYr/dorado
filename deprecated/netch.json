@@ -2,11 +2,11 @@
     "homepage": "https://github.com/NetchX/Netch",
     "description": "Game accelerator. Support Socks5, Shadowsocks, ShadowsocksR, V2Ray protocol. UDP NAT FullCone",
     "license": "MIT",
-    "version": "1.4.8",
+    "version": "1.4.12",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/NetchX/Netch/releases/download/1.4.8/Netch.zip",
-            "hash": "550bf8756d0b906ff921e323ea92d40d827afc98774e695c6d9cd2ac62320887"
+            "url": "https://github.com/NetchX/Netch/releases/download/1.4.12/Netch.zip",
+            "hash": "26122511393a42bc903c451b4ebaa3bb083aee631640ef39360d7355c8d8d511"
         }
     },
     "persist": "data",
@@ -27,7 +27,7 @@
                 "hash": {
                     "url": "https://github.com/NetchX/Netch/releases/tag/$version",
                     "mode": "extract",
-                    "regex": "(?sm)Netch.zip.*?$sha256"
+                    "regex": "(?sm)Netch.zip.*?$sha256</td>"
                 }
             }
         }
