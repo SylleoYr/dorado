@@ -1,16 +1,16 @@
 {
     "homepage": "https://www.microsoft.com/en-us/edge",
     "description": "The chromium based Microsoft Edge browser (Beta Channel)",
-    "version": "86.0.622.11",
+    "version": "86.0.622.15",
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://edge-dl.kidonng.workers.dev/https://api.shuax.com/v2/download/edge/beta/x64#/MicrosoftEdge-Beta-86.0.622.11-x86_x64.7z",
-            "hash": "792c286696b454a7e26445a57e7abc6fa42a4af9e8d68e5113351425f252721d"
+            "url": "https://edge-dl.kidonng.workers.dev/https://api.shuax.com/v2/download/edge/beta/x64#/MicrosoftEdge-Beta-86.0.622.15-x86_x64.7z",
+            "hash": "9cc5790c718cb5f31baf42cb5042b32acc17597be8da9778fb99d5b806b91c18"
         },
         "32bit": {
-            "url": "https://edge-dl.kidonng.workers.dev/https://api.shuax.com/v2/download/edge/beta/x86#/MicrosoftEdge-Beta-86.0.622.11-x86.7z",
-            "hash": "b94655c6deaae03116720dfbba4e9a838c9af8ef5681222a14215877e8317099"
+            "url": "https://edge-dl.kidonng.workers.dev/https://api.shuax.com/v2/download/edge/beta/x86#/MicrosoftEdge-Beta-86.0.622.15-x86.7z",
+            "hash": "f955259c53aaa8a137e9c0a98735fc03bd54c4182497e487d5621118584893c6"
         }
     },
     "installer": {
